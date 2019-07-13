@@ -12,7 +12,7 @@
 | 9 | 2019-07-10 | Continue lesson 6 and create [this repo](https://github.com/TheBear44/secureprivataischolar) | [My repo](https://github.com/TheBear44/secureprivataischolar) |
 | 10 | 2019-07-11 | Continue lesson 6 and read [Papers With Code](https://paperswithcode.com/) | [Papers With Code](https://paperswithcode.com/) |
 | 11 | 2019-07-12 | Finished lesson 6 | - |
-| 12 | 2019-07-13 | TBD | TBD |
+| 12 | 2019-07-13 | Start lesson 7 | - |
 | 13 | 2019-07-14 | TBD | TBD |
 | 14 | 2019-07-15 | TBD | TBD |
 | 15 | 2019-07-16 | TBD | TBD |
