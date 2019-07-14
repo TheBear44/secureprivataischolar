@@ -13,7 +13,7 @@
 | 10 | 2019-07-11 | Continue lesson 6 and read [Papers With Code](https://paperswithcode.com/) | [Papers With Code](https://paperswithcode.com/) |
 | 11 | 2019-07-12 | Finished lesson 6 | - |
 | 12 | 2019-07-13 | Start lesson 7 | - |
-| 13 | 2019-07-14 | TBD | TBD |
+| 13 | 2019-07-14 | Continue lesson 7  | - |
 | 14 | 2019-07-15 | TBD | TBD |
 | 15 | 2019-07-16 | TBD | TBD |
 | 16 | 2019-07-17 | TBD | TBD |
