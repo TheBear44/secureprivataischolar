@@ -16,7 +16,7 @@
 | 13 | 2019-07-14 | Continue lesson 7  | - |
 | 14 | 2019-07-15 | Continue lesson 7 | - |
 | 15 | 2019-07-16 | Finished lesson 7 🤯 | - |
-| 16 | 2019-07-17 | TBD | TBD |
+| 16 | 2019-07-17 | Start lesson 8 🎈 | - |
 | 17 | 2019-07-18 | TBD | TBD |
 | 18 | 2019-07-19 | TBD | TBD |
 | 19 | 2019-07-20 | TBD | TBD |
