@@ -18,7 +18,7 @@
 | 15 | 2019-07-16 | Finished lesson 7 🤯 | - |
 | 16 | 2019-07-17 | Start lesson 8 🎈 | - |
 | 17 | 2019-07-18 | Continue lesson 8 & Participating in Slack | - |
-| 18 | 2019-07-19 | TBD | TBD |
+| 18 | 2019-07-19 | Finished lesson 8 | - |
 | 19 | 2019-07-20 | TBD | TBD |
 | 20 | 2019-07-21 | TBD | TBD |
 | 21 | 2019-07-22 | TBD | TBD |
