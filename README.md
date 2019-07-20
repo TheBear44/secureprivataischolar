@@ -5,7 +5,7 @@
 | Day  | Date | Activities | Links |
 | --- | --- | --- | --- |
 | 4 | 2019-07-05 | Finished Project Demo Varying the Amount of Noise by myself 💯😂 | - |
-| 5 | 2019-07-06 | Finished lesson 4 🙌 | - |
+| 5 | 2019-07-06 | Finished lesson 5 🙌 | - |
 | 6 | 2019-07-07 | Revise neural network architecture | - |
 | 7 | 2019-07-08 | Start lesson 6 | - |
 | 8 | 2019-07-09 | Continue lesson 6 and revise some math about dl. | - |
