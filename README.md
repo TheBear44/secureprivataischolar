@@ -21,8 +21,8 @@
 | 18 | 2019-07-19 | Finished lesson 8 | - |
 | 19 | 2019-07-20 | Start lesson 9 | - |
 | 20 | 2019-07-21 | Continue lesson 9 & Ask some questions in Slack | - |
-| 21 | 2019-07-22 | TBD | TBD |
-| 22 | 2019-07-23 | TBD | TBD |
+| 21 | 2019-07-22 | Continue lesson 9 | - |
+| 22 | 2019-07-23 | Continue lesson 9 | - |
 | 23 | 2019-07-24 | TBD | TBD |
 | 24 | 2019-07-25 | TBD | TBD |
 | 25 | 2019-07-26 | TBD | TBD |
