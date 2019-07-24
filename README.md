@@ -23,7 +23,7 @@
 | 20 | 2019-07-21 | Continue lesson 9 & Ask some questions in Slack | - |
 | 21 | 2019-07-22 | Continue lesson 9 | - |
 | 22 | 2019-07-23 | Continue lesson 9 | - |
-| 23 | 2019-07-24 | TBD | TBD |
+| 23 | 2019-07-24 | Continue lesson 9 | - |
 | 24 | 2019-07-25 | TBD | TBD |
 | 25 | 2019-07-26 | TBD | TBD |
 | 26 | 2019-07-27 | TBD | TBD |
