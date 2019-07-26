@@ -25,7 +25,7 @@
 | 22 | 2019-07-23 | Continue lesson 9 | - |
 | 23 | 2019-07-24 | Continue lesson 9 | - |
 | 24 | 2019-07-25 | Finished lesson 9 🎉🎉 | - |
-| 25 | 2019-07-26 | TBD | TBD |
+| 25 | 2019-07-26 | Start [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) on Coursera | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
 | 26 | 2019-07-27 | TBD | TBD |
 | 27 | 2019-07-28 | TBD | TBD |
 | 28 | 2019-07-29 | TBD | TBD |
