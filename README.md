@@ -30,7 +30,7 @@
 | 27 | 2019-07-28 | Continue [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) on Coursera and review lesson 2 | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
 | 28 | 2019-07-29 | Continue [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) on Coursera | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
 | 29 | 2019-07-30 | Continue [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) on Coursera | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
-| 30 | 2019-07-31 | TBD | TBD |
+| 30 | 2019-07-31 | Continue [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) on Coursera | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
 | 31 | 2019-08-01 | TBD | TBD |
 | 32 | 2019-08-02 | TBD | TBD |
 | 33 | 2019-08-03 | TBD | TBD |
