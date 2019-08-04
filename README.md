@@ -34,7 +34,7 @@
 | 31 | 2019-08-01 | Continue [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) on Coursera & Found [The Matrix Calculus You Need For Deep Learning](https://twitter.com/iamtrask/status/1156615724334534656) | [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) |
 | 32 | 2019-08-02 | Continue [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) on Coursera | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
 | 33 | 2019-08-03 | Finished [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) on Coursera | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
-| 34 | 2019-08-04 | TBD | TBD |
+| 34 | 2019-08-04 | Joined AWS DeepRacer Scholarship Challenge | - |
 | 35 | 2019-08-05 | TBD | TBD |
 | 36 | 2019-08-06 | TBD | TBD |
 | 37 | 2019-08-07 | TBD | TBD |
