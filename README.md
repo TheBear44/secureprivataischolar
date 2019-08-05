@@ -35,7 +35,7 @@
 | 32 | 2019-08-02 | Continue [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) on Coursera | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
 | 33 | 2019-08-03 | Finished [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) on Coursera | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
 | 34 | 2019-08-04 | Joined AWS DeepRacer Scholarship Challenge | - |
-| 35 | 2019-08-05 | TBD | TBD |
+| 35 | 2019-08-05 | Review lesson 2 notebooks | - |
 | 36 | 2019-08-06 | TBD | TBD |
 | 37 | 2019-08-07 | TBD | TBD |
 | 38 | 2019-08-08 | TBD | TBD |
