@@ -36,7 +36,7 @@
 | 33 | 2019-08-03 | Finished [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) on Coursera | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
 | 34 | 2019-08-04 | Joined AWS DeepRacer Scholarship Challenge | - |
 | 35 | 2019-08-05 | Review lesson 2 notebooks | - |
-| 36 | 2019-08-06 | TBD | TBD |
+| 36 | 2019-08-06 | Review & Explore lesson 2 notebooks repo | [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) |
 | 37 | 2019-08-07 | TBD | TBD |
 | 38 | 2019-08-08 | TBD | TBD |
 | 39 | 2019-08-09 | TBD | TBD |
