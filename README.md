@@ -37,7 +37,7 @@
 | 34 | 2019-08-04 | Joined AWS DeepRacer Scholarship Challenge | - |
 | 35 | 2019-08-05 | Review lesson 2 notebooks | - |
 | 36 | 2019-08-06 | Review & Explore lesson 2 notebooks repo | [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) |
-| 37 | 2019-08-07 | TBD | TBD |
+| 37 | 2019-08-07 | Review & Explore lesson 2 notebooks repo | [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) |
 | 38 | 2019-08-08 | TBD | TBD |
 | 39 | 2019-08-09 | TBD | TBD |
 | 40 | 2019-08-10 | TBD | TBD |
