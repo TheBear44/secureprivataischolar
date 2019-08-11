@@ -39,9 +39,9 @@
 | 36 | 2019-08-06 | Review & Explore lesson 2 notebooks repo | [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) |
 | 37 | 2019-08-07 | Review & Explore lesson 2 notebooks repo | [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) |
 | 38 | 2019-08-08 | Review & Explore lesson 2 notebooks repo | [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) |
-| 39 | 2019-08-09 | TBD | TBD |
-| 40 | 2019-08-10 | TBD | TBD |
-| 41 | 2019-08-11 | TBD | TBD |
+| 39 | 2019-08-09 | Review & Explore lesson 2 notebooks repo | [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) |
+| 40 | 2019-08-10 | Review & Explore lesson 2 notebooks repo | [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) |
+| 41 | 2019-08-11 | Review & Explore lesson 2 notebooks repo | [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) |
 | 42 | 2019-08-12 | TBD | TBD |
 | 43 | 2019-08-13 | TBD | TBD |
 | 44 | 2019-08-14 | TBD | TBD |
