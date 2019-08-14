@@ -44,7 +44,7 @@
 | 41 | 2019-08-11 | Review & Explore lesson 2 notebooks repo | [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) |
 | 42 | 2019-08-12 | Review lesson 3 | - |
 | 43 | 2019-08-13 | Review lesson 3 | - |
-| 44 | 2019-08-14 | TBD | TBD |
+| 44 | 2019-08-14 | Review lesson 4 | - |
 | 45 | 2019-08-15 | TBD | TBD |
 | 46 | 2019-08-16 | TBD | TBD |
 | 47 | 2019-08-17 | TBD | TBD |
