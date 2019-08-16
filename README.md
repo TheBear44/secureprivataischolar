@@ -46,7 +46,7 @@
 | 43 | 2019-08-13 | Review lesson 3 | - |
 | 44 | 2019-08-14 | Review lesson 4 | - |
 | 45 | 2019-08-15 | Review lesson 4 | - |
-| 46 | 2019-08-16 | TBD | TBD |
+| 46 | 2019-08-16 | Review lesson 5 | - |
 | 47 | 2019-08-17 | TBD | TBD |
 | 48 | 2019-08-18 | TBD | TBD |
 | 49 | 2019-08-19 | TBD | TBD |
