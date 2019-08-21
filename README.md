@@ -48,10 +48,10 @@
 | 45 | 2019-08-15 | Review lesson 4 | - |
 | 46 | 2019-08-16 | Review lesson 5 | - |
 | 47 | 2019-08-17 | Review lesson 5 | - |
-| 48 | 2019-08-18 | TBD | TBD |
-| 49 | 2019-08-19 | TBD | TBD |
-| 50 | 2019-08-20 | TBD | TBD |
-| 51 | 2019-08-21 | TBD | TBD |
+| 48 | 2019-08-18 | Review lesson 6 | - |
+| 49 | 2019-08-19 | Review lesson 6 | - |
+| 50 | 2019-08-20 | Review lesson 7 | - |
+| 51 | 2019-08-21 | Review lesson 7 | - |
 | 52 | 2019-08-22 | TBD | TBD |
 | 53 | 2019-08-23 | TBD | TBD |
 | 54 | 2019-08-24 | TBD | TBD |
