@@ -54,7 +54,7 @@
 | 51 | 2019-08-21 | Review lesson 7 | - |
 | 52 | 2019-08-22 | Review lesson 7 | - |
 | 53 | 2019-08-23 | Review lesson 8 | - |
-| 54 | 2019-08-24 | TBD | TBD |
+| 54 | 2019-08-24 | Review lesson 8 | - |
 | 55 | 2019-08-25 | TBD | TBD |
 | 56 | 2019-08-26 | TBD | TBD |
 | 57 | 2019-08-27 | TBD | TBD |
