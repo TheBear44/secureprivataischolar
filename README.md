@@ -57,7 +57,7 @@
 | 54 | 2019-08-24 | Review lesson 8 | - |
 | 55 | 2019-08-25 | Check out _Disease Detection Using Chest Xrays_ | https://github.com/SGNovice/Disease-detection-using-chest-xrays |
 | 56 | 2019-08-26 | Read _A Beginner's Guide to the Mathematics of Neural Networks_ | http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf |
-| 57 | 2019-08-27 | TBD | TBD |
+| 57 | 2019-08-27 | Browsing amazing projects on #project-showcase-challenge Slack channel | - |
 | 58 | 2019-08-28 | TBD | TBD |
 | 59 | 2019-08-29 | TBD | TBD |
 | 60 | 2019-08-30 | TBD | TBD |
