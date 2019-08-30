@@ -60,4 +60,4 @@
 | 57 | 2019-08-27 | Browsing amazing projects on #project-showcase-challenge Slack channel | - |
 | 58 | 2019-08-28 | Browsing and voting amazing projects on #project-showcase-challenge Slack channel | - |
 | 59 | 2019-08-29 | Browsing and voting amazing projects on #project-showcase-challenge Slack channel & Read _A Beginner's Guide to the Mathematics of Neural Networks_ | http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf |
-| 60 | 2019-08-30 | TBD | TBD |
+| 60 | 2019-08-30 | Read _A Beginner's Guide to the Mathematics of Neural Networks_ & review differential privacy | http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf |
